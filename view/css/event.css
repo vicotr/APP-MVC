@@ -1,0 +1,55 @@
+h2{
+	text-align: left;
+}
+.post{
+	display: inline-block;
+	width:400px;
+	height:450px;
+	position: relative;
+	margin-left:60px;
+	margin-top: 30px; 
+	
+}
+.post-thumb{
+	width:400px;
+	height:250px;
+	transition:0.3s;
+
+}
+.post-thumb:hover{
+	
+	opacity: 0.5;
+
+	
+
+}
+.post-content{
+	position: absolute;
+	top:250px;
+	right:0;
+	width:400px;
+	background-color: #FFF;
+	padding-left:0;
+	padding-right: 0;
+	text-align: justify;
+}
+
+.btn{
+	display:inline-block;
+	padding: 0 40px;
+	font-size: 15px;
+	color:#000;
+	margin-top: 10px;
+	text-transform: uppercase;
+	line-height: 40px;
+	background-color: transparent;
+	border: 2px solid rgb(231, 76, 60);
+	transition:0.3s;
+
+}
+.btn:hover{
+	background-color: rgb(231, 76, 60);
+	color:#FFF;
+	
+
+}

@@ -1,0 +1,101 @@
+
+h2
+{
+	background-color: #4682B4;
+	color : black;
+	text-align:center;
+	border-radius: 15px;
+	padding: 1%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top : 2%;
+	margin-bottom: 5%;
+	
+}
+.GrandCadre
+{
+	border: 2px solid black;
+	border-radius: 15px;
+	background-color: #73888C;
+
+	padding-top: 3%;
+	padding-bottom: 3%;
+/*	padding-left: %;
+	padding-right: 10%;*/
+
+	margin-left : 9%;
+	margin-right : 9%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+.cadre
+{
+	border: 2px solid black;
+	border-radius: 15px;
+	background-color: #F0F8FF;
+
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-left : 10%;
+	margin-right : 10%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+
+}
+.login
+{
+	position: relative;
+	text-align:left;
+	float:left;
+	margin-right: 50%;
+	width: 100px;
+	margin: auto;
+
+
+}
+.msg
+{
+	text-align: center;
+	position: center;
+	margin-left : 10%;
+	margin-right : 10%;
+
+
+	
+}
+
+.date
+{
+	position :right;
+	text-align:right;
+/*	float:center;
+	margin:auto;*/
+
+}
+.topic:hover 
+{
+	color: #FF00FF;
+}
+
+.NouveauCommentaire
+{
+	text-align: center;
+	font-size: 1.3em;
+	border: 2px solid black;
+	border-radius: 15px;
+	background-color: #E3FDF8;
+	margin-right: 30%;
+	margin-left :30%;
+
+}
+/*em 
+{
+	position: relative;
+	text-align:auto;
+	float:left;
+	width: 100px;
+	margin: auto;
+}*/
+
